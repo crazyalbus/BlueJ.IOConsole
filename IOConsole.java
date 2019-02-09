@@ -72,7 +72,7 @@ public class IOConsole {
      * @param prompt : text to display to user
      * @param args   : optional arguments to send for string formatting
      * @return user's input as float
-     */ // TODO - Change recursion to iteration
+     */
     public Float getFloatInput(String prompt, Object... args) {
         return null;
     }
@@ -81,7 +81,7 @@ public class IOConsole {
      * @param prompt : text to display to user
      * @param args   : optional arguments to send for string formatting
      * @return user's input as long
-     */ // TODO - Change recursion to iteration
+     */
     public Long getLongInput(String prompt, Object... args) {
         return null;
     }
